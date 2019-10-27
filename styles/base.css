@@ -328,6 +328,7 @@ transition: background 0.25s ease-in;
 
 
 
+
 @media only screen and (max-width :768px){
 
 html{
@@ -352,6 +353,10 @@ height:100vh;
 .about-container{
     flex-flow:column;
   
+}
+.about-icons{
+
+    width:90%
 }
 .display-picture{
     width:80%;
