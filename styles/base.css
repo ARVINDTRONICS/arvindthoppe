@@ -127,7 +127,7 @@ width:80%;
 margin:0 auto;
 padding: 1.25em;
 justify-content: space-evenly;
-border:1px solid red;
+
 }
 .about-text{
 display: flex;
@@ -137,7 +137,7 @@ justify-content: space-evenly;
 padding-left: 0.5em;
 margin:0 auto;
 font-weight: bold;
-border:1px solid red;
+
 }
 .about-icons i{
     border-radius:50%;
