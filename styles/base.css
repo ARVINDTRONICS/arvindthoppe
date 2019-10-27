@@ -344,7 +344,7 @@ width:100%;
 
 }
 .about{
-height:130vh;
+height:100vh;
 }
 .about-container{
     flex-flow:column;
@@ -352,8 +352,7 @@ height:130vh;
 }
 .display-picture{
     width:80%;
-    height:50vh;
-    
+    height:40vh;   
     padding:1em;
 }
 .display-picture img{
@@ -364,7 +363,7 @@ height:130vh;
 
 }
 .skills{
-  height:30vh;
+  height:40vh;
 width:80%;
 padding:1em;
 }
