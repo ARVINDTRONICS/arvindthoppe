@@ -122,7 +122,7 @@
   }
   .about{
   
-      height:130vh;
+      height:120vh;
       color:black;
       text-align:center;
       font-size: 1.25em;
@@ -180,7 +180,7 @@
   }
   .skill-box{
       display:flex;
-      flex-flow:column wrap;
+      flex-flow:column;
       width:100%;
       
   }
@@ -354,7 +354,7 @@
   
   }
   .about{
-  height:100vh;
+  height:110vh;
   
   
   }
