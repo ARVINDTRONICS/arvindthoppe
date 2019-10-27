@@ -125,18 +125,19 @@ display: flex;
 flex-flow: row wrap;
 width:80%;
 margin:0 auto;
-padding: 20px;
+padding: 1.25em;
 justify-content: space-evenly;
+border:1px solid red;
 }
 .about-text{
 display: flex;
 flex-flow: row wrap;
-width:80%;
+width:75%;
 justify-content: space-evenly;
 padding-left: 0.5em;
 margin:0 auto;
 font-weight: bold;
-
+border:1px solid red;
 }
 .about-icons i{
     border-radius:50%;
@@ -354,10 +355,7 @@ height:100vh;
     flex-flow:column;
   
 }
-.about-icons{
 
-    width:90%
-}
 .display-picture{
     width:80%;
     height:40vh;   
